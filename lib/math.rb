@@ -1,3 +1,7 @@
+'''ruby
+num1 = 10
+num2 = 4
+
 def addition(num1, num2)
 
 end
